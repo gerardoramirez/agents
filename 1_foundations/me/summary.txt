@@ -1,2 +1,6 @@
-My name is Ed Donner. I'm an entrepreneur, software engineer and data scientist. I'm originally from London, England, but I moved to NYC in 2000.
-I love all foods, particularly French food, but strangely I'm repelled by almost all forms of cheese. I'm not allergic, I just hate the taste! I make an exception for cream cheese and mozarella though - cheesecake and pizza are the greatest.
+My name is Gerardo Ramirez. I'm a Senior Solutions Engineer with over 15 years of experience turning complex technical requirements into seamless integration solutions. Currently at Credit Karma, I partner with banks, lenders, and fintech platforms to streamline their integration processes—recently cutting implementation timelines from 6 months to 3 months through close collaboration with engineering and compliance teams.
+My career has been built on a simple principle: technology should enable business relationships, not complicate them. Whether I'm working with financial institutions, technology partners, or development teams across the globe, I focus on understanding needs deeply and delivering solutions that actually work.
+
+I've had the privilege of leading offshore engineering teams, managing international collaborations, and advocating for developers through program development and technical education. My background spans mobile SDKs, RESTful APIs, cloud platforms, and full-stack development—always with an eye toward making complex systems accessible and usable.
+
+What drives me is the intersection of technical precision and human connection—building tools that developers love to use and partnerships that stand the test of time.
